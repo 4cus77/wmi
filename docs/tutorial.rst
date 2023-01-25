@@ -10,7 +10,7 @@ From the Wikipedia entry for WMI:
   Microsoft's implementation of the Web-Based Enterprise Management (WBEM) Standard from the Distributed Management
   Task Force (DMTF). WMI allows scripting languages like VBScript to manage Microsoft Windows personal computers and
   servers, both locally and remotely. WMI is preinstalled in Windows Vista, Windows Server 2003, Windows XP, Windows
-  Me, and Windows 2000.
+  Me, and Windows 2000.   
 
 This tutorial covers accessing WMI specifically using the Python programming language and assumes you have
 downloaded and installed Python itself, the pywin32 extensions and the WMI Python module. Python is able to use WMI
@@ -683,7 +683,7 @@ Links
     `ActivExperts <http://www.activexperts.com/activmonitor/windowsmanagement/wmi/samples>`_
       Loads of examples
     `Microsoft <http://www.microsoft.com/technet/scriptcenter/scripts/default.mspx?mfr=true">`_
-      The Microsoft Scripting Repository
+      The Microsoft Scripting Repositoryg
 
     **Lists, Groups, etc.**
 
